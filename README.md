@@ -15,7 +15,7 @@ Solve algorithmic problems demonstrating sorting, searching, and greedy/dynamic 
 3. Report with algorithm choice and complexity
 
 ## Sample Output
-
+![alt text](image.png)
 
 
 ## Complexity Analysis
